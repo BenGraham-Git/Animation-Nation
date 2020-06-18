@@ -3668,6 +3668,13 @@
     author: 'Mark Marchant',
     githubLink: 'https://github.com/jtla3/Animation-Nation',
   },
+  {
+    artName: 'Ben Graham',
+    pageLink: './Art/BenGraham/index.html',
+    imageLink: './Art/../example.gif',
+    author: 'Ben Graham',
+    githubLink: 'https://github.com/BenGraham-Git',
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
